@@ -236,6 +236,7 @@ wsa://com.android.settings
 | Outlook | 4.2138.0 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation. ||
 | One Store | 7.6.0 | ✅ |||
 | Phigros |  | ✅ |||
+| Pigment - Coloring App | | ⚠️ | Crashes frequently
 | Pixel People | 4.7 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Plants vs Zombies 2 | 9.2.2 | ✅ | Cloud save using Google Play Games works if GMS is available ||
 | Plex | 8.26.2.29389 | ✅ |||
